@@ -1,4 +1,4 @@
-package kodlamaio.hrms.dataAccess.abstracts;
+package kodlamaio.hrms.dao.abstracts;
 
 import kodlamaio.hrms.entities.concretes.JobTitle;
 import org.springframework.data.jpa.repository.JpaRepository;
